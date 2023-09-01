@@ -1,0 +1,12 @@
+.wrapLogin {
+    display: 'flex';
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.ant-form-item-required {
+    font-size: 24px !important;
+    font-weight: 600;
+}
